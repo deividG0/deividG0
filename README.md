@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Sobre mim / <i>About me</i></h1>
 
-<!--
-**deividG0/deividG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">Olá, meu nome é Deivid Gomes, sou estudante de Engenharia de Computação na Universidade Federal do Recôncavo da Bahia. Procuro desenvolver habilidades de desenvolvimento de software para dispositivos móveis.
+</h4>
 
-Here are some ideas to get you started:
+<h4 align="center"><i>Hello, my name is Deivid Gomes, I am a Computer Engineering student at the Federal University of Recôncavo da Bahia. I'm looking to develop my software development skills for mobile devices.</i></h4>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Estatísticas GitHub
+
+<br/>
+  <p align="center">
+    <a href="https://github.com/deividG0/deividG0/blob/main/README.md"><img alt="Deivid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deividG0&show_icons=true&count_private=true&theme=JavaScript" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deividG0&show_icons=true&locale=en&layout=compact&theme=JavaScript" alt="deividG0" height="192px"/>
+  <br/>
