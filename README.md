@@ -10,7 +10,6 @@
 
 <br/>
   <p align="center">
-    <a href="https://github.com/deividG0/deividG0/blob/main/README.md"><img alt="Deivid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=deividG0&show_icons=true&count_private=true&theme=JavaScript" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deividG0&show_icons=true&locale=en&layout=compact&theme=JavaScript" alt="deividG0" height="192px"/>
